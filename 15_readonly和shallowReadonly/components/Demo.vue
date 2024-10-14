@@ -32,7 +32,7 @@ export default {
     // person = shallowReadonly(person)
     // sum = readonly(sum)
     // sum = shallowReadonly(sum)
-    
+
 
     return {
       ...toRefs(person),
